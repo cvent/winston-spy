@@ -40,7 +40,7 @@
     "assume": "^2.0.1",
     "coveralls": "^3.0.0",
     "eslint-config-populist": "^4.1.0",
-    "jest": "^26.6.3",
+    "jest": "^30.2.0",
     "mocha": "^5.1.1",
     "nyc": "^11.7.1",
     "sinon": "^9.2.4",
