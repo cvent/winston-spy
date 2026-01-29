@@ -37,7 +37,7 @@
   },
   "devDependencies": {
     "abstract-winston-transport": "^0.5.1",
-    "assume": "^2.0.1",
+    "assume": "^2.3.0",
     "coveralls": "^3.0.0",
     "eslint-config-populist": "^4.1.0",
     "jest": "^26.6.3",
